@@ -18,6 +18,7 @@ Create a simple app to convert temperature form Celsius to Fahrenheit. You can u
 A simple app for quiz you take questions on any topic and you can work on any language.
 
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/8ee69890-86ec-4613-bff2-faccdad19fe7)
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/0957a6c7-485c-4e15-a9ec-beeda3326ef4)
 
 
 
