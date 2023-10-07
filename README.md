@@ -19,7 +19,8 @@ A simple app for quiz you take questions on any topic and you can work on any la
 
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/8ee69890-86ec-4613-bff2-faccdad19fe7)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/aabe4d9b-297b-4859-9b99-195e35cb7a25)
-![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/b3c11e78-d6b2-4718-8547-dd45908d94a1)
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/9babd7c1-103e-4f0d-8049-ebd27c420e4a)
+
 
 
 
