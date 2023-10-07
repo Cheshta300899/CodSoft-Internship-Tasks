@@ -10,3 +10,5 @@ Create a simple app to convert temperature form Celsius to Fahrenheit. You can u
 
 3. Quiz App :
 A simple app for quiz you take questions on any topic and you can work on any language.
+
+I have used Python Language to create all above apps.
