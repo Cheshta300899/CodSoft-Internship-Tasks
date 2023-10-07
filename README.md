@@ -20,10 +20,7 @@ A simple app for quiz you take questions on any topic and you can work on any la
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/8ee69890-86ec-4613-bff2-faccdad19fe7)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/aabe4d9b-297b-4859-9b99-195e35cb7a25)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/9babd7c1-103e-4f0d-8049-ebd27c420e4a)
-
-
-
-
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/d4fe41a8-5e7c-4e83-af18-ae8ef268d222)
 
 
 I have used Python Language to create all above apps.
