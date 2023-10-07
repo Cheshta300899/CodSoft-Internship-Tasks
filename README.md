@@ -1,4 +1,4 @@
-TASK TO PERFORM
+TASKS TO PERFORM
 
 Upload your code on your GitHub Account
 
