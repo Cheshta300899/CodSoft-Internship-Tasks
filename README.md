@@ -11,7 +11,8 @@ A calculator app having basic functions like add, subtract, divide, multiply. Yo
 2. Temperature Converter App :
 Create a simple app to convert temperature form Celsius to Fahrenheit. You can use any language to create the app.
 
-![Uploading image.png…]()
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/154ee2ed-ab0d-4e95-924e-93450a501a68)
+
 
 
 
