@@ -14,11 +14,12 @@ Create a simple app to convert temperature form Celsius to Fahrenheit. You can u
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/0349a784-e9a0-4176-a3ff-cb0e069a8333)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/039b825f-7b06-4d23-9e2f-b046baf43dab)
 
-
-
-
-
-4. Quiz App :
+3. Quiz App :
 A simple app for quiz you take questions on any topic and you can work on any language.
+
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/8ee69890-86ec-4613-bff2-faccdad19fe7)
+
+
+
 
 I have used Python Language to create all above apps.
