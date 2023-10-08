@@ -9,8 +9,8 @@ A calculator app having basic functions like add, subtract, divide, multiply. Yo
 2. Temperature Converter App :
 Create a simple app using Kotlin or Java to convert temperature form Celsius to Fahrenheit. 
 
-![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/8520c643-4e46-4aa5-979a-13f20f9af2ff)
-![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/20ba2fe6-08ed-461a-85bf-1d5e9fa00102)
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/362e98ac-555a-4681-9e3a-c3dea319eafc)
+![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/05d8dc03-d9a3-4c51-90cf-8d821d2d7990)
 
 3. Quiz App :
 A simple app for quiz you take questions on any topic and you can work on any language.
