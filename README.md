@@ -1,7 +1,5 @@
 TASKS TO PERFORM
 
-Upload your code on your GitHub Account
-
 1. Calculator App :
 A calculator app having basic functions like add, subtract, divide, multiply. You can use any language to create the app.
 
@@ -23,4 +21,5 @@ A simple app for quiz you take questions on any topic and you can work on any la
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/d4fe41a8-5e7c-4e83-af18-ae8ef268d222)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/1a6b109c-c455-4502-badc-412c111e2a90)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/45edc066-ad30-49bd-884a-ea1db7840773)
+
 I have used Python Language to create all above apps.
