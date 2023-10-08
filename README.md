@@ -1,7 +1,8 @@
 TASKS TO PERFORM
 
 1. Calculator App :
-A calculator app having basic functions like add, subtract, divide, multiply. You can use any language to create the app.
+A calculator app having basic functions like add, subtract, divide, multiply.                                                            
+You can use any language to create the app.
 
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/ee6be5f3-72dc-4e59-ba15-1dc9b8c21263)
 ![image](https://github.com/Cheshta300899/BharatIntern-Internship-Tasks/assets/85059628/19d6bd11-c1c6-4ded-acef-7c5e0d0503a5)
