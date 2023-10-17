@@ -2,6 +2,7 @@ TASKS TO PERFORM
 
 T1: To-Do List
 Description: Create a web-based task list application for managing to-do items.
+
 Steps:
 1. Style it with CSS.
 2. Add functionality to add, edit, and delete tasks with JavaScript.
@@ -12,6 +13,7 @@ Steps:
 
 T2: Portfolio
 Description: Create a personal portfolio website to showcase your skills and projects.
+
 Steps:
 1. Design the website layout with HTML and CSS.
 2. Include sections for an introduction, projects, skills, and contact information
@@ -23,6 +25,7 @@ Steps:
 T3: Digital Clock
 Description: Develop a digital clock that displays the current time and updates in real-time.
 Features: Display hours, minutes, and seconds. Real-time updates.
+
 Steps:
 1. Create a clock display layout with HTML and CSS.
 2. Utilize JavaScript to obtain and update the current time, seconds, minutes, and hours.
