@@ -1,6 +1,7 @@
 TASKS TO PERFORM
 
 T1: To-Do List
+
 Description: Create a web-based task list application for managing to-do items.
 
 Steps:
@@ -12,6 +13,7 @@ Steps:
    Skills: DOM manipulation, event handling
 
 T2: Portfolio
+
 Description: Create a personal portfolio website to showcase your skills and projects.
 
 Steps:
@@ -23,6 +25,7 @@ Steps:
    Skills: : Web development, responsive design
 
 T3: Digital Clock
+
 Description: Develop a digital clock that displays the current time and updates in real-time.
 
 Features: Display hours, minutes, and seconds. Real-time updates.
