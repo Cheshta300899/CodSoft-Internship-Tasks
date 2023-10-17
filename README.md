@@ -12,9 +12,9 @@ Steps:
    Technologies: HTML, CSS, JavaScript
    Skills: DOM manipulation, event handling
 
-T2: Portfolio
+T2: Personal Portfolio Profile
 
-Description: Create a personal portfolio website to showcase your skills and projects.
+Description: Create a personal portfolio profile website to showcase your skills and projects.
 
 Steps:
 1. Design the website layout with HTML and CSS.
