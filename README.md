@@ -10,7 +10,7 @@ Steps:
 3. Implement local storage to save tasks.
 
    Technologies: HTML, CSS, JavaScript
-   Skills: DOM manipulation, event handling
+   Skills: DOM Manipulation, Event Handling
 
 T2: Personal Profile Cum Portfolio
 
@@ -22,7 +22,7 @@ Steps:
 3. Implement responsive design for different screen sizes
    
    Technologies: HTML, CSS, JavaScript
-   Skills: : Web development, responsive design
+   Skills: : Web Development, Responsive Design
 
 T3: Digital Clock
 
@@ -36,4 +36,4 @@ Steps:
 3. Implement responsive design for different screen sizes
    
    Technologies: HTML, CSS, JavaScript
-   Skills: : Date and time handling, real-time updates
+   Skills: : Date & Time Handling, Real-Time Updates
