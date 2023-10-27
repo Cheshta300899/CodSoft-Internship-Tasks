@@ -9,8 +9,8 @@ Steps:
 2. Add functionality to add, edit, and delete tasks with JavaScript.
 3. Implement local storage to save tasks.
 
-   Technologies: HTML, CSS, JavaScript
-   Skills: DOM Manipulation, Event Handling
+   Technologies: HTML, CSS, JavaScript.
+   Skills: DOM Manipulation, Event Handling.
 
 T2: Personal Profile Cum Portfolio
 
@@ -18,11 +18,11 @@ Description: Create a personal profile cum portfolio website to showcase your sk
 
 Steps:
 1. Design the website layout with HTML and CSS.
-2. Include sections for an introduction, projects, skills, and contact information
-3. Implement responsive design for different screen sizes
+2. Include sections for an introduction, projects, skills, and contact information.
+3. Implement responsive design for different screen sizes.
    
-   Technologies: HTML, CSS, JavaScript
-   Skills: : Web Development, Responsive Design
+   Technologies: HTML, CSS, JavaScript.
+   Skills: : Web Development, Responsive Design.
 
 T3: Digital Clock
 
@@ -33,7 +33,7 @@ Features: Display hours, minutes, and seconds. Real-time updates.
 Steps:
 1. Create a clock display layout with HTML and CSS.
 2. Utilize JavaScript to obtain and update the current time, seconds, minutes, and hours.
-3. Implement responsive design for different screen sizes
+3. Implement responsive design for different screen sizes.
    
-   Technologies: HTML, CSS, JavaScript
-   Skills: : Date & Time Handling, Real-Time Updates
+   Technologies: HTML, CSS, JavaScript.
+   Skills: : Date & Time Handling, Real-Time Updates.
