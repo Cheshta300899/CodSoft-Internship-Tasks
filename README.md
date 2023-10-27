@@ -22,7 +22,7 @@ Steps:
 3. Implement responsive design for different screen sizes.
    
    Technologies: HTML, CSS, JavaScript.
-   Skills: : Web Development, Responsive Design.
+   Skills: Web Development, Responsive Design.
 
 T3: Digital Clock
 
@@ -36,4 +36,4 @@ Steps:
 3. Implement responsive design for different screen sizes.
    
    Technologies: HTML, CSS, JavaScript.
-   Skills: : Date & Time Handling, Real-Time Updates.
+   Skills: Date & Time Handling, Real-Time Updates.
