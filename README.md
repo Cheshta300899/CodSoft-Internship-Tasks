@@ -20,6 +20,7 @@ Steps:
 1. Design the website layout with HTML and CSS.
 2. Include sections for an introduction, projects, skills, and contact information.
 3. Implement responsive design for different screen sizes.
+4. Enhance interactivity using JavaScript for smooth navigation and animations.
    
    Technologies: HTML, CSS, JavaScript.
    Skills: Web Development, Responsive Design.
@@ -33,7 +34,6 @@ Features: Display hours, minutes, and seconds. Real-time updates.
 Steps:
 1. Create a clock display layout with HTML and CSS.
 2. Utilize JavaScript to obtain and update the current time, seconds, minutes, and hours.
-3. Implement responsive design for different screen sizes.
    
    Technologies: HTML, CSS, JavaScript.
    Skills: Date & Time Handling, Real-Time Updates.
